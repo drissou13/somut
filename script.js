@@ -2,7 +2,7 @@ const motsSud = [
   "fada", "cagol", "pastis", "pagne", "calan", "pouto", "petan", "tchio", "boule", "soupe",
   "olive", "panis", "sarde", "tapon", "gnole", "chich", "massu", "pigne", "rague", "capou",
   "galin", "barjo", "roust", "miche", "tioun", "macan", "daube", "rouga", "cabri", "roule",
-  "nifle", "bibin", "bouss", "estru", "flari", "cabri", "velou", "panti", "gambi", "couss",
+  "nifle", "bibin", "bouss", "estru", "flari", "cabri", "degun", "panti", "gambi", "couss",
   "rosco", "macou", "nigno", "berlu", "pount", "coupo", "beret", "boufa", "tatan", "souti",
   "tchac", "poupé", "pinat", "choul", "pouet", "papet", "riant", "zouli", "crado", "tremp",
   "tchat", "mandi", "douce", "moula", "roufi", "clapi", "craqu", "piano", "bravo", "tropo",
